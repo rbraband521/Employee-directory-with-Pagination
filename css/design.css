@@ -32,6 +32,7 @@ body{
       border: 1px solid #eaeaea;
       padding: 8px 15px;
       font-size: 14px;
+      float: right;
     }
 
     .page-header .student-search button{
