@@ -2,7 +2,7 @@
 Treehouse Techdegree:
 FSJS project 2 - List Filter and Pagination
 ******************************************/
-
+console.log('Welcome');
 
 //Global variables - stores student list item elements
 const listItem = document.querySelector(".student-list").children;
