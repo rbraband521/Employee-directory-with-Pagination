@@ -77,6 +77,7 @@ function search() {
    searchDiv.appendChild(searchButton);
 
    //TODO return button after a search is made
+   //CLEAR input after esarch TODO
    // const homeButton = document.createElement('button');
    // homeButton.textContent = "Return";
    // noResultDiv.appendChild(homeButton);
