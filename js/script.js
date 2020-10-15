@@ -76,6 +76,11 @@ function search() {
    searchDiv.appendChild(input);
    searchDiv.appendChild(searchButton);
 
+   //TODO return button after a search is made
+   // const homeButton = document.createElement('button');
+   // homeButton.textContent = "Return";
+   // noResultDiv.appendChild(homeButton);
+
    //Event handler for search
    searchButton.addEventListener('click', (e) => {
       const searchLowerCase = input.value.toLowerCase(); 
